@@ -16,3 +16,6 @@ npm test ...to test with Mocha and jsdom
 or...
 
 npm run test:watch
+
+Use Travis CI to sync with Github repos for CI(Continuous Integration) ....ie., cross platform testing
+https://travis-ci.org/getting_started
