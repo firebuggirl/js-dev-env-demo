@@ -19,3 +19,6 @@ npm run test:watch
 
 Use Travis CI to sync with Github repos for CI(Continuous Integration) ....ie., cross platform testing
 https://travis-ci.org/getting_started
+
+AppVeyor -> CI for testing on Windows ...if build fails will receive and email
+https://ci.appveyor.com/projects
